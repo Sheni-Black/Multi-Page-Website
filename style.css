@@ -32,6 +32,22 @@ nav > a{
     background-color: rgba(0, 0, 255, 0.3);
 }
 
+
+.index-hero{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 1rem;
+    text-align: center;
+    padding-inline: 3rem;
+    padding-block: 2rem;
+}
+
+.index-hero img{
+    width: 50vw;
+}
+
 @media (max-width: 750px) {
     nav{
     gap: 3rem;
