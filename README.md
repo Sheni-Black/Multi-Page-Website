@@ -1,1 +1,1 @@
-A simlple multi-page website practice. Also used to praactice branching and merging with github
+A simlple multi-page website practice. Also used to praactice branching and merging with github.
